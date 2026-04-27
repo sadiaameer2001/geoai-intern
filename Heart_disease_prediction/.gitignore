@@ -1,0 +1,10 @@
+# Python junk files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Auto-generated map file
+heart_disease_risk_map.html
+
+# Auto-generated chart images
+*.png

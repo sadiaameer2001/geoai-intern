@@ -1,0 +1,7 @@
+# Python junk files — not needed on GitHub
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Graph images (generated when you run the notebook)
+graph*.png

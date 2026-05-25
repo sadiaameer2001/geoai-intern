@@ -1,0 +1,10 @@
+# Secret API keys — NEVER upload these!
+.env
+
+# Python junk files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Auto-generated map files
+*.html
